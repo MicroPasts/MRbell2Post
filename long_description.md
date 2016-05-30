@@ -6,7 +6,7 @@ available and is useful not only for basic documentation purposes, but also for 
 inclusion in gaming and virtual reality environments, or for identifying different sub-styles in otherwise similar 
 types of artefact (that might tell us about the date of the artefact, where it was made, or by whom).
 
-This particular photo-masking application is an experiment as we are attempting to model a bell from the Mary Rose ship after this underwent conservation work.
+This particular photo-masking application is an experiment as we are attempting to model a bell from the Mary Rose shipwreck after the bell underwent conservation work.
 
 ![Mary Rose Bell] (http://micropasts.org/wp-content/uploads/2016/05/Screen-Shot-2016-05-30-at-14.47.59-e1464616207276.png)
 
@@ -20,7 +20,7 @@ If you are interested in what our 3D completed models look like, please have a l
 
 ### This project is on behalf of:
 
-University College London, Sainsbury Institute for the Study of Japanese Arts and Cultures and The British Museum
+The Mary Rose Trust.
 
 [![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/master.TheMaryRosePantone-e1432131931101.jpg) 
 ![British Museum](http://finds.org.uk/images/logos/bm_logo.png)
