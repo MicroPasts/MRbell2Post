@@ -341,10 +341,10 @@ pybossa.taskLoaded(function(task, deferred) {
             $("#holes").removeClass("disabled");
             $("#status").text("Photo loaded!");
         });
-        img.attr('src', task.info.url_b).css('height', 460);
+        img.attr('src', task.info.url_d).css('height', 460);
         
         //Log the url of image being masked.
-        console.log(task.info.url_b);
+        console.log(task.info.url_d);
         
         img.addClass('img-polaroid');
         task.info.image = img;
@@ -465,7 +465,7 @@ pybossa.taskLoaded(function(task, deferred) {
                     html: '&copy; <a href="http://micropasts.org">Micropasts</a>'
                   })
                 ],
-                url: task.info.url_b,
+                url: task.info.url_d,
                 imageSize: [5184, 2912],
                 projection: task.pixelProjection,
                 imageExtent: task.pixelProjection.getExtent()
@@ -519,7 +519,7 @@ pybossa.taskLoaded(function(task, deferred) {
                  'task_id': task.id,
                  'outline': [],
                  'holes': [],
-                 'img': task.info.url_b};
+                 'img': task.info.url_d};
         task.polygon = false;
         task.holes = false;
         }
@@ -635,7 +635,7 @@ pybossa.presentTask(function(task, deferred) {
                     //task.answer = {
                     //    'task_id': task.id,
                     //    'polygon': polygons,
-                    //    'img': task.info.url_b};
+                    //    'img': task.info.url_d};
                     task.answer.outline = polygons;
 
                     if (task.holes) {
