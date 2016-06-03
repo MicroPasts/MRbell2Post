@@ -1,4 +1,4 @@
-PyBossa photo-masking application for Mary Rose Museum bell post-conservation
+PyBossa photo-masking application for HMS Hood bell post-conservation
 =================================================
 
 This application has three files:
